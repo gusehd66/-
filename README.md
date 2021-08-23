@@ -28,7 +28,7 @@
 
 ## 무료 API 사이트
 - public apis
-<a  href="https://github.com/public-apis/public..." target="_blank">https://github.com/public-apis/public...</a>
+<a  href="https://github.com/public-apis/public-apis" target="_blank">https://github.com/public-apis/public-apis</a>
 
 
 - 조크 api
@@ -56,7 +56,7 @@
 
 
 - 음악 spotify
-<a  href="https://developer.spotify.com/documen..." target="_blank">https://developer.spotify.com/documen...</a>
+<a  href="https://developer.spotify.com/documentation/web-api/" target="_blank">https://developer.spotify.com/documentation/web-api/.</a>
 
 
 - 요리 레시피
@@ -70,3 +70,5 @@
 - 만화 마블
 <a  href="https://developer.marvel.com/" target="_blank">https://developer.marvel.com/</a>
 
+## CSS Flex practice
+<a  href="https://flexboxfroggy.com/#ko" target="_blank">https://flexboxfroggy.com/#ko</a>
