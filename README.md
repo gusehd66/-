@@ -72,3 +72,7 @@
 
 ## CSS Flex practice
 <a  href="https://flexboxfroggy.com/#ko" target="_blank">https://flexboxfroggy.com/#ko</a>
+ 
+
+## Javascript Code Lecture
+<a  href="https://www.notion.so/Javascript-Code-Lecture-34f25d7ed8a9481d8cddf1690f8dc17c" target="_blank">https://www.notion.so/Javascript-Code-Lecture-34f25d7ed8a9481d8cddf1690f8dc17c</a>
