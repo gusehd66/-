@@ -76,3 +76,6 @@
 
 ## Javascript Code Lecture
 <a  href="https://www.notion.so/Javascript-Code-Lecture-34f25d7ed8a9481d8cddf1690f8dc17c" target="_blank">https://www.notion.so/Javascript-Code-Lecture-34f25d7ed8a9481d8cddf1690f8dc17c</a>
+
+## particles.js (react interactive)
+<a  href="https://vincentgarreau.com/particles.js/#default" target="_blank">https://vincentgarreau.com/particles.js/#default</a>
